@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/dlintw/goconf v0.0.0-20120228082610-dcc070983490
-	github.com/golang-jwt/jwt v3.2.1+incompatible
+	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6 // indirect
 	github.com/google/uuid v1.3.0
 	github.com/gorilla/mux v1.8.0
